@@ -3,7 +3,7 @@ web application for creating and linking ORCID IDs
 
 Web application to create and/or link ORCID accounts with a campus identity management system. 
 
- ORCID (Open Researcher and Contributor Identifier) is a non-profit organization dedicated to solving the name ambiguity problem in scholarly research by assigning a unique identifier to each author.
+ ORCID (Open Researcher and Contributor Identifier) is a non-profit organization dedicated to solving the name ambiguity problem in scholarly research by assigning a unique identifier to each author. See [orcid.org](http://orcid.org)
 These IDs are used to uniquely identify researchers in a variety of systems including grant management systems, publication databases and repositories.   It is a valuable piece of information used to track the activities of a researcher and is increasingly being integrated into scholarly systems.
 
  
